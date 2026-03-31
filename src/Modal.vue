@@ -34,6 +34,9 @@ export default {
         alert('1개월 이상 12개월 이하로 입력해주세요');
         this.month = 1;
       }
+      if(a==2){
+        alert("2 입력"); 
+      }
     },
  },
   
